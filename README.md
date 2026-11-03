@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chad! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/chad-marshall-a8393910/">AI, Automation and Analyics Proessional</a>
+<h1>Hi, I'm Chad! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/chad-marshall-a8393910/">AI, Automation and Data Proessional</a>
 
 <h2>👨‍💻 AI Projects:</h2>
 
