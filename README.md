@@ -1,50 +1,24 @@
-<h1>Hi, I'm Chad! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/chad-marshall-a8393910/">AI, Automation and Data Proessional</a>
+# Chad Marshall — AI, Automation & Data Portfolio
 
-<h2>👨‍💻 AI Projects:</h2>
+I build practical solutions with AI, automation, and analytics. This portfolio highlights selected projects, the problems they address, and the tools used.
 
-- <b>Rag Model</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## Featured projects
 
-<h2>📺 Automation Projects</h2>
+| Project | Area | Overview |
+|---|---|---|
+| [RAG Model for Aquaponics](projects/rag-model-aquaponics.md) | AI / RAG | A retrieval-augmented generation model for aquaponics. |
+| [Agentic Workflow: Data Parsing](projects/agentic-data-parsing.md) | AI / Automation | An agentic workflow that parses data into separate columns. |
+| [Agentic Workflow: Weekly Email Topic Summary](projects/weekly-email-topic-summary.md) | AI / Automation | A workflow to collect email topics weekly and create a summary report. |
+| [Machine Learning Classification Model](projects/ml-classification-copilot.md) | Machine learning | A classification model developed using Copilot. |
+| [Power Automate: Email Text Extraction](projects/power-automate-email-extraction.md) | Automation | A Power Automate workflow to extract text from email bodies. |
+| [Alteryx: Data Source Blending](projects/alteryx-data-blending.md) | Data analytics | Blending data sources using Alteryx. |
+| [Tableau / Power BI Dashboards](projects/tableau-powerbi-dashboards.md) | Data visualization | Dashboards created with Tableau and Power BI. |
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## About these project pages
 
-<h2>📺 Machine Learnings</h2>
-- [XGBoost Housing Price Prediction Model](https://github.com/Cmarsh14/XGBoost-Housing-Model/blob/main/Full%20pg%20Submission6-Bins.ipynb)
-<h2> 🤳 Connect with me:</h2>
+Each page is a concise project overview. Add sanitized screenshots under `assets/screenshots/` and update the corresponding page to display them. Replace the prompts on each page with project-specific details as you prepare the portfolio; no private data, credentials, or confidential email content should be included.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+## Connect
 
-[linkedin]: www.linkedin.com/in/chad-marshall-a8393910
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/chad-marshall-a8393910/)
+- [GitHub](https://github.com/Cmarsh14)
